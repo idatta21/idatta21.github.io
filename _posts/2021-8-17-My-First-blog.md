@@ -60,30 +60,6 @@ Data scientists play a key role in helping organizations make sound decisions. A
 ·         Interpersonal skills: Communicate across a diverse audience across all levels of an organization.
 
 
-
-
-Statistician
-
-Data Scientist
-
-Data is given (i.e. test files)
-
-Need to get data (i.e. database)
-
-Focus on modeling
-
-Focus on results
-
-Bring data to model
-
-Bring model to
-
-Further away from production system
-
-Embedded in production system
-
- 
-
 Both statisticians and data scientists work closely with data. For typical traditional statisticians, the data set is usually well-formatted text files with numbers (i.e., numerical variables) and labels (i.e., categorical variables). The data’s size is typically small enough to be loaded in a PC’s memory or be saved in a PC’s hard disk. Comparing to statisticians, data scientists need to deal with more varieties of data:
 
 well-formatted data stored in a database system with a size much larger than a PC’s memory or hard disk.
