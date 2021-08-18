@@ -1,15 +1,9 @@
 ---
 layout: post
-title: My first blog post about data scientist
+title: Data Scientists Vs Statisticians
 ---
 
-What do you think being a data scientist is about?
-
-More generally, a data scientist is someone who knows how to extract meaning from and interpret data, which requires both tools and methods from statistics and machine learning, as well as being human. Data scientist spends a lot of time in the process of collecting, cleaning, and munging data, because data is never clean. This process requires persistence, statistics, and software engineering skills—skills that are also necessary for understanding biases in the data, and for debugging logging output from code.
-
- 
-
-What do you see as the major duties and/or knowledge areas?
+More generally, a Data Scientist is someone who knows how to extract meaning from and interpret data, which requires both tools and methods from statistics and machine learning, as well as being human. Data scientist spends a lot of time in the process of collecting, cleaning, and munging data, because data is never clean. This process requires persistence, statistics, and software engineering skills—skills that are also necessary for understanding biases in the data, and for debugging logging output from code.
 
 Organizations today are grappling with how to make sense of an inordinate amount of disparate data. The ability to transform a sea of data into actionable insights can have a profound impact. By extrapolating and sharing these insights, data scientists help organizations to solve vexing problems. Combining computer science, modeling, statistics, analytics, and math skills—along with sound business sense—data scientists uncover the answers to major questions that help organizations make objective decisions.
 
@@ -39,9 +33,7 @@ Data scientists work closely with business stakeholders to understand their goal
 
 11. Repeat the process to solve a new problem
 
- 
-
-Essential Data Science Skills:
+ Essential Data Science Skills:
 
 Most data scientists use the following core skills in their daily work:
 
@@ -67,19 +59,8 @@ Data scientists play a key role in helping organizations make sound decisions. A
 
 ·         Interpersonal skills: Communicate across a diverse audience across all levels of an organization.
 
- 
 
- 
 
- 
-
- 
-
- 
-
- 
-
-What differences/similarities do you see between data scientists and statisticians?
 
 Statistician
 
@@ -112,12 +93,4 @@ One unique power of statistics is to make statistical inferences based on a smal
 
 Unlike statisticians, data scientists often focus on delivering actionable results and sometimes need to deploy the model to the production system. The data available for model training can be too large to be processed in a single computer. From the entire problem-solving cycle, statisticians are usually not well integrated with the production system where data is obtained in real-time, while data scientists are more embedded in the production system and closer to the data generation procedures. In summary, statisticians focus more on modeling and usually bring data to models, while data scientists focus more on data and usually bring models to data.
 
- 
-
- 
-
-How do you view yourself in relation to these two areas?
-
- 
-
-According to me both Statistician and data Scientists are important roles. If someone wants to focus on significance, testing, experimental design, normality distribution, and diagnostic plotting, then become a Statistician. If someone wants to practice more software-engineering like coding and automation of machine learning models, then become a Data Scientist. I fell in love with mathematics when I was young pupil. It always amazes me that a series of numeric characters represent most of the problems in the world. I gained interest into Statistics when I was in 10th grade. So, with my love and affection towards Mathematica and statistics, I want to be a Statistician. However, I would like to explore Data Science knowledge areas with strong understanding of Statistics.
+According to me both Statistician and data Scientists are important roles. If someone wants to focus on significance, testing, experimental design, normality distribution, and diagnostic plotting, then become a Statistician. If someone wants to practice more software-engineering like coding and automation of machine learning models, then become a Data Scientist. I fell in love with mathematics when I was young pupil. It always amazes me that a series of numeric characters represent most of the problems in the world. I gained interest into Statistics when I was in 10th grade. So, with my love and affection towards Mathematics and statistics, I want to be a Statistician. However, I would like to explore Data Science knowledge areas with strong understanding of Statistics.
