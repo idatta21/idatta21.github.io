@@ -20,7 +20,7 @@ Being a stay at home Mom, I have demonstrated the transferable skills of Multi-t
 Research, Communication, Organization, Managing people, Negotiation and collaboration. I
 believe these skills will enable me to succeed in the Master’s Program. 
 
-I am really looking forward to undertake Online Master of Statistics Program in the prestigious
+I am really looking forward to Graduate from Master of Statistics Program in the prestigious
 institution like North Carolina State University to develop and apply my knowledge in the field
 of academic and industry.
 
