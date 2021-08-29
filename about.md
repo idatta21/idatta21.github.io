@@ -28,9 +28,6 @@ of academic and industry.
 
 
 ### Contact me  <img src="https://user-images.githubusercontent.com/89056573/130389948-78c56477-334a-4f84-9e9e-8fa7e52d6ac9.jpeg" width="60" height="60" >
-```{r out.width = "25%", fig.align = "center",echo=FALSE}
-knitr::include_graphics("https://user-images.githubusercontent.com/89056573/130389948-78c56477-334a-4f84-9e9e-8fa7e52d6ac9.jpeg")
-```
 
 
 [idatta@ncsu.edu](mailto:idatta@ncsu.edu)
