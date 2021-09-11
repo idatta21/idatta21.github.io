@@ -6,7 +6,7 @@ date: "9/11/2021"
 
 ---
 ```{r setup,echo=FALSE}
-knitr::opts_chunk$set(fig.path = "C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/images/")
+knitr::opts_chunk$set(fig.path = "C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/images/unnamed-chunk-1-1.png")
 
 ```
 
@@ -14,7 +14,7 @@ knitr::opts_chunk$set(fig.path = "C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/ida
 
 R is a particularly good choice for frequent users that plan to deal more extensively with statistics and don't want to be restricted by their statistical program R is a popular, open-source statistics environment that can be extended by packages almost at will. R is commonly used with RStudio, a comfortable development environment that can be used locally or in a client-server installation via a web browser. R applications can also be used directly and interactively on the web via Shiny. <br>  
 
-##What functionality do you like about R?
+## What functionality do you like about R?
 
 1.Very large range of functions (well over 2,000 packages)
 2.New statistical methods are quickly implemented
@@ -39,4 +39,3 @@ R has a reputation of being hard to learn. Some of that is due to the fact that 
 ```{r}
 plot(iris)
 ```
-![](<img src="https://user-images.githubusercontent.com/89056573/130389948-78c56477-334a-4f84-9e9e-8fa7e52d6ac9.jpeg)
