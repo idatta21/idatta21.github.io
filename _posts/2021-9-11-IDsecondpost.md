@@ -14,7 +14,7 @@ can be used locally or in a client-server installation via a web
 browser. R applications can also be used directly and interactively on
 the web via Shiny. <br>
 
-\#\#What functionality do you like about R?
+## What functionality do you like about R?
 
 1.Very large range of functions (well over 2,000 packages) 2.New
 statistical methods are quickly implemented 3.Very easy to automate and
@@ -46,5 +46,4 @@ many have said, R makes easy things hard, and hard things easy.
 plot(iris)
 ```
 
-![](C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/images/unnamed-chunk-1-1.png)<!-- -->
-![plotting iris](images/unnamed-chunk-1-1.png)
+![](C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/images/unnamed-chunk-1-1.pngunnamed-chunk-1-1.png)<!-- -->
