@@ -10,12 +10,11 @@ knitr::opts_chunk$set(fig.path = "C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/ida
 ```
 ```
 rmarkdown::render("C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/_Rmd/2021-9-11-secondpost.Rmd" ,
-              output_format = "github_document", 
+              output_format = "github_document",
               output_dir="C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/_posts",
               output_options = list(
                 html_preview= FALSE,
-                keep_html= FALSE
-                )
+                keep_html= FALSE)
               )
 ```
 ## What are your thoughts on R vs whatever other software you've used?
@@ -43,6 +42,6 @@ R is a particularly good choice for frequent users that plan to deal more extens
 R has a reputation of being hard to learn. Some of that is due to the fact that it is radically different from other analytics software. Some is an unavoidable byproduct of its extreme power and flexibility. ... As many have said, R makes easy things hard, and hard things easy. 
 
 ## R Markdown output.
-```{r}
+```{r ,echo=FALSE }
 plot(iris)
 ```
