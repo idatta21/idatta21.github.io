@@ -47,3 +47,4 @@ plot(iris)
 ```
 
 ![](C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/images/unnamed-chunk-1-1.png)<!-- -->
+![plotting iris](images/unnamed-chunk-1-1.png)

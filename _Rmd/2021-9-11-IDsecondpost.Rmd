@@ -39,3 +39,4 @@ R has a reputation of being hard to learn. Some of that is due to the fact that 
 ```{r}
 plot(iris)
 ```
+![plotting iris](images/unnamed-chunk-1-1.png)
