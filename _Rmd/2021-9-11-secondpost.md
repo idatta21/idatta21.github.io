@@ -8,15 +8,6 @@ date: "9/11/2021"
 knitr::opts_chunk$set(fig.path = "C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/images/")
 
 ```
-```
-rmarkdown::render("C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/_Rmd/2021-9-11-secondpost.Rmd" ,
-              output_format = "github_document",
-              output_dir="C:/Users/Ipsita/OneDrive/Desktop/ST558/HW4/idatta21.github.io/_posts",
-              output_options = list(
-                html_preview= FALSE,
-                keep_html= FALSE)
-              )
-```
 ## What are your thoughts on R vs whatever other software you've used?
 
 R is a particularly good choice for frequent users that plan to deal more extensively with statistics and don't want to be restricted by their statistical program R is a popular, open-source statistics environment that can be extended by packages almost at will. R is commonly used with RStudio, a comfortable development environment that can be used locally or in a client-server installation via a web browser. R applications can also be used directly and interactively on the web via Shiny. <br>  
