@@ -54,6 +54,6 @@ fact that it is radically different from other analytics software. Some
 is an unavoidable byproduct of its extreme power and flexibility. … As
 many have said, R makes easy things hard, and hard things easy.
 
-## Example of a R Markdown output from plot(iris).
+## Example of a R Markdown output
 
 ![](../images/unnamed-chunk-1-1.png)<!-- -->
