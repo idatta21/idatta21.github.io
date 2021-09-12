@@ -8,7 +8,7 @@ title: "Programming Background"
 
 R is a particularly good choice for frequent users that plan to deal more extensively with statistics and don't want to be restricted by their statistical program R is a popular, open-source statistics environment that can be extended by packages almost at will. R is commonly used with RStudio, a comfortable development environment that can be used locally or in a client-server installation via a web browser. R applications can also be used directly and interactively on the web via Shiny. <br>  
 
-###What functionality do you like about R?
+### What functionality do you like about R?
 
 1.Very large range of functions (well over 2,000 packages)<br>  
 
@@ -38,12 +38,12 @@ R is a particularly good choice for frequent users that plan to deal more extens
 
 R has a reputation of being hard to learn. Some of that is due to the fact that it is radically different from other analytics software. Some is an unavoidable byproduct of its extreme power and flexibility. ... As many have said, R makes easy things hard, and hard things easy. 
 
-## R Markdown output.
+## Example of a R Markdown output from plot(iris).
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(fig.path = "../images/")
 
 ```
 
-```{r}
+```{r,echo=FALSE}
 plot(iris)
 ```

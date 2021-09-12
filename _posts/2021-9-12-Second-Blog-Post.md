@@ -14,7 +14,7 @@ can be used locally or in a client-server installation via a web
 browser. R applications can also be used directly and interactively on
 the web via Shiny. <br>
 
-\#\#\#What functionality do you like about R?
+### What functionality do you like about R?
 
 1.Very large range of functions (well over 2,000 packages)<br>
 
@@ -54,10 +54,6 @@ fact that it is radically different from other analytics software. Some
 is an unavoidable byproduct of its extreme power and flexibility. … As
 many have said, R makes easy things hard, and hard things easy.
 
-## R Markdown output.
-
-``` r
-plot(iris)
-```
+## Example of a R Markdown output from plot(iris).
 
 ![](../images/unnamed-chunk-1-1.png)<!-- -->
