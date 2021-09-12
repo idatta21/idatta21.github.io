@@ -37,22 +37,24 @@ object-oriented programming)<br>
 
 8.Future-proof due to very large, active developer community <br>
 
+9.R is an open-source language is a language on which we can work
+without any need for a license or a fee.
+
 ### What parts do you miss about your other language?
 
-1.Getting familiar with the R syntax presents a barrier to entry.<br>
-
-2.Stability/quality of little-used packages is often not as high as the
-core distribution.<br>
-
-3.Powerful hardware is required when working with very large data
-sets.<br>
+Getting familiar with the R syntax presents a barrier to entry for me.
+Powerful hardware is required when working with very large data sets
+which is not required for other languages.<br>
 
 ### Do you consider R a difficult language to learn?
 
-R has a reputation of being hard to learn. Some of that is due to the
-fact that it is radically different from other analytics software. Some
-is an unavoidable byproduct of its extreme power and flexibility. … As
-many have said, R makes easy things hard, and hard things easy.
+R is a very complicated language, and it has a steep learning curve. The
+people who don’t have prior knowledge or programming experience may find
+it difficult to learn R. In comparison to other programming language, R
+packages are much slower. Algorithms are spread across different
+packages. The programmers who have no prior knowledge of packages may
+find it difficult to implement algorithms As many have said, R makes
+easy things hard, and hard things easy.
 
 ## Example of a R Markdown output
 
