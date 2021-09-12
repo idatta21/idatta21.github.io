@@ -1,7 +1,5 @@
 ---
 title: "Programming Background"
-author: "Ipsita Datta"
-date: "9/12/2021"
 
 ---
 ##  Thoughts on R 

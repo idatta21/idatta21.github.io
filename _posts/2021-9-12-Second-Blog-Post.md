@@ -1,7 +1,5 @@
 Programming Background
 ================
-Ipsita Datta
-9/12/2021
 
 ## Thoughts on R
 
