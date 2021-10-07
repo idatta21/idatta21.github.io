@@ -7,3 +7,5 @@
  
  – In,future, First I will sketch a project outline like what are the things is going to discuss or what are the data I should fetch from API,whta are the data
  exploration we should do etc.
+here is the link for the vignette: idatta21.github.io/Project1
+here is the for all the documents for the vignette: https://github.com/idatta21/Project1
